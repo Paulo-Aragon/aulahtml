@@ -1,0 +1,11 @@
+<?xml version=”1.0” encoding=”utf-8”?>
+    <curriculo>
+        <dados_pessoais>
+            <nome>Elon Musk</nome>
+            <data_nascimento>01/01/1970</data_nascimento>
+            <telefone>(84)99999-9999</telefone>
+            <email>elon@musk.com</email>
+        </dados_pessoais>
+        
+        <dados_profissionais>
+        </dados_pessoais>
